@@ -1,0 +1,19 @@
+{
+  "name": "petmarket-node",
+  "version": "1.0.0",
+  "description": "Petmarket app based on ColdFusion Petmarket app from many moons ago!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdensmore/petmarket-node.git"
+  },
+  "author": "Ben Densmore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdensmore/petmarket-node/issues"
+  },
+  "homepage": "https://github.com/bdensmore/petmarket-node#readme"
+}
